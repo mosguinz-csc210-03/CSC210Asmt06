@@ -1,3 +1,13 @@
+/*
+ * Assignment 06
+ * Description: Coffee shop inventory manager
+ * Name: Kullathon "Mos" Sitthisarnwattanachai
+ * Teammate: Amber Hartigan
+ * ID: 921425216
+ * Class: CSC 210-03
+ * Semester: Fall 2020
+ */
+
 import java.util.Arrays;
 import java.util.Scanner;
 
